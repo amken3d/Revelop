@@ -26,6 +26,7 @@ Introducing the Revelop 3D Printer Control Board – the perfect upgrade for hob
 ### Comprehensive Features
 - **2 Fan Ports + 1 Always-On Case Fan**: Keep your setup cool and running smoothly.
 - **4 End Stops**: Ensure precise positioning with support for up to 4 end stops.
+- **BL-Touch Support**: Supports BL Touch and CR Touch ABL sensors.
 - **2 Thermistor Inputs**: Monitor and control temperatures accurately with dual thermistor inputs.
 - **2 CAN Ports**: Enhance communication and expandability with dual CAN ports.
 - **EXP1 and EXP2 Expansion Headers**: Easily expand your system with standard expansion headers.
@@ -40,7 +41,7 @@ Introducing the Revelop 3D Printer Control Board – the perfect upgrade for hob
 
 ## Why Choose Revelop?
 
-The Revelop 3D Printer Control Board is designed for the creative spirit of hobbyists, makers, and 3D printer enthusiasts. With its robust features, compact design, and easy-to-use interface, Revelop enhances your 3D printing projects, making them more enjoyable and efficient. It’s the perfect choice for those looking to take their 3D printing to the next level without the complexity of professional setups.
+The Revelop 3D Printer Control Board is designed for the creative spirit of hobbyists, makers, and 3D printer enthusiasts. With its robust features, compact design, and easy-to-use interface, Revelop enhances your 3D printing projects, making them more enjoyable and efficient. It’s the perfect choice for those looking to take their 3D printing to the next level.
 
 ## Order Now
 
