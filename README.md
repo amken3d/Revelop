@@ -30,7 +30,7 @@ Introducing the Revelop 3D Printer Control Board – the perfect upgrade for hob
 - **2 Thermistor Inputs**: Monitor and control temperatures accurately with dual thermistor inputs.
 - **2 CAN Ports**: Enhance communication and expandability with dual CAN ports.
 - **EXP1 and EXP2 Expansion Headers**: Easily expand your system with standard expansion headers.
-- - **QWIIC Connector**: Simplify connections with a QWIIC connector for easy integration of sensors and accessories from Sparkfun and Adafruit.
+- **QWIIC Connector**: Simplify connections with a QWIIC connector for easy integration of sensors and accessories from Sparkfun and Adafruit.
 
 ### Superior Build Quality
 - **High-Quality 4-Layer Board with Gold Plating (ENIG Process)**: Enjoy the durability and reliability of a top-notch PCB, designed for long-lasting performance.
@@ -43,10 +43,12 @@ Introducing the Revelop 3D Printer Control Board – the perfect upgrade for hob
 ## Why Choose Revelop eS?
 
 The Revelop eS 3D Printer Control Board is designed for the creative spirit of hobbyists, makers, and 3D printer enthusiasts. With its robust features, compact design, and easy-to-use interface, Revelop eS enhances your 3D printing projects, making them more enjoyable and efficient. It’s the perfect choice for those looking to take their 3D printing to the next level.
--*All boards are designed in the US and are assembled with globally sourced components. *
--*The long term vision is to manufacture and assemble in-house in the USA. *
--*Amken is based out of US and will ship from US location and provide US based service. *
--*Being a small independent design shop, Amken is uniquely positioned to deliver cutting edge tech to the community quickly and is commited to listening to its customers.*
+
+### About Amken LLC
++ All boards are designed in the US and are assembled with globally sourced components.
++ The long term vision is to manufacture and assemble in-house in the USA.
++ Amken is based out of US and will ship from US location and provide US based service.
++ Being a small independent design shop, Amken is uniquely positioned to deliver cutting edge tech to the community quickly and is commited to listening to its customers.
 
 ## Order Now - (taking orders for Pre-Launch release)
 
@@ -54,7 +56,7 @@ Transform your 3D printing experience with the Revelop 3D Printer Control Board.
 Send me a note to put you on the list of early adopters. 
 https://amken3d.com/contact/
 
-# Visit us - www.amken3d.com
+## Visit us - www.amken3d.com
 ![Revelop_Front_2024-06-05](https://github.com/amken3d/Revelop/assets/166057890/c9bfb3c3-d3f5-4346-9c70-8c39b885ca48)
 ![Revelop_Back_2024-06-05](https://github.com/amken3d/Revelop/assets/166057890/44297481-b60f-4c5b-bf0b-b8c1f261e734)
 
