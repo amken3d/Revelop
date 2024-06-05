@@ -39,9 +39,11 @@ Introducing the Revelop 3D Printer Control Board – the perfect upgrade for hob
 - **ESD Protection on All Motor Ports**: Protect your components with industry-leading ESD protection, a unique feature in the market.
 - **Replaceable Fuses**: Ensure safety and ease of maintenance with replaceable fuses.
 
-## Why Choose Revelop?
+## Why Choose Revelop eS?
 
-The Revelop 3D Printer Control Board is designed for the creative spirit of hobbyists, makers, and 3D printer enthusiasts. With its robust features, compact design, and easy-to-use interface, Revelop enhances your 3D printing projects, making them more enjoyable and efficient. It’s the perfect choice for those looking to take their 3D printing to the next level.
+The Revelop eS 3D Printer Control Board is designed for the creative spirit of hobbyists, makers, and 3D printer enthusiasts. With its robust features, compact design, and easy-to-use interface, Revelop eS enhances your 3D printing projects, making them more enjoyable and efficient. It’s the perfect choice for those looking to take their 3D printing to the next level.
+All boards are designed in the US and are assembled with globally sourced components. The long term vision is to manufacture and assemble in-house in the USA. 
+Unlike other manufacturers, Amken is based out of US and will ship from US location and provide US based service. Being a small independent design shop, Amken is uniquely positioned to deliver cutting edge tech to the community quickly and is commited to listening to its customers. 
 
 ## Order Now - (taking orders for Pre-Launch release)
 
