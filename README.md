@@ -34,10 +34,11 @@ Introducing the Revelop 3D Printer Control Board – the perfect upgrade for hob
 ### Superior Build Quality
 - **High-Quality 4-Layer Board with Gold Plating (ENIG Process)**: Enjoy the durability and reliability of a top-notch PCB, designed for long-lasting performance.
 - **5V 5A Step Down Converter**: Ensure stable operation with reliable power conversion.
-- **Full Color PCB**: A high-quality, visually appealing PCB design.
+- **Full Color PCB**: A high-quality, visually appealing PCB design with easy to understand vual markings and pinout charts.
 - **QWIIC Connector**: Simplify connections with a QWIIC connector for easy integration of sensors and accessories.
-- **ESD Protection on All Motor Ports**: Protect your components with industry-leading ESD protection, a unique feature in the market.
+- **Robust Protection on All Motor Ports**: Ferrite bead and LC filters protect your TMC2209 motor drivers, prevents driver errors due to Back EMF and ESD.
 - **Replaceable Fuses**: Ensure safety and ease of maintenance with replaceable fuses.
+- **100uf Solid Capacitors**: Prolonged life and better filtering
 
 ## Why Choose Revelop eS?
 
