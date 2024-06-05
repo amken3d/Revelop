@@ -30,12 +30,12 @@ Introducing the Revelop 3D Printer Control Board – the perfect upgrade for hob
 - **2 Thermistor Inputs**: Monitor and control temperatures accurately with dual thermistor inputs.
 - **2 CAN Ports**: Enhance communication and expandability with dual CAN ports.
 - **EXP1 and EXP2 Expansion Headers**: Easily expand your system with standard expansion headers.
+- - **QWIIC Connector**: Simplify connections with a QWIIC connector for easy integration of sensors and accessories from Sparkfun and Adafruit.
 
 ### Superior Build Quality
 - **High-Quality 4-Layer Board with Gold Plating (ENIG Process)**: Enjoy the durability and reliability of a top-notch PCB, designed for long-lasting performance.
 - **5V 5A Step Down Converter**: Ensure stable operation with reliable power conversion.
 - **Full Color PCB**: A high-quality, visually appealing PCB design with easy to understand vual markings and pinout charts.
-- **QWIIC Connector**: Simplify connections with a QWIIC connector for easy integration of sensors and accessories.
 - **Robust Protection on All Motor Ports**: Ferrite bead and LC filters protect your TMC2209 motor drivers, prevents driver errors due to Back EMF and ESD.
 - **Replaceable Fuses**: Ensure safety and ease of maintenance with replaceable fuses.
 - **100uf Solid Capacitors**: Prolonged life and better filtering
@@ -43,8 +43,10 @@ Introducing the Revelop 3D Printer Control Board – the perfect upgrade for hob
 ## Why Choose Revelop eS?
 
 The Revelop eS 3D Printer Control Board is designed for the creative spirit of hobbyists, makers, and 3D printer enthusiasts. With its robust features, compact design, and easy-to-use interface, Revelop eS enhances your 3D printing projects, making them more enjoyable and efficient. It’s the perfect choice for those looking to take their 3D printing to the next level.
-All boards are designed in the US and are assembled with globally sourced components. The long term vision is to manufacture and assemble in-house in the USA. 
-Unlike other manufacturers, Amken is based out of US and will ship from US location and provide US based service. Being a small independent design shop, Amken is uniquely positioned to deliver cutting edge tech to the community quickly and is commited to listening to its customers. 
+-All boards are designed in the US and are assembled with globally sourced components. 
+-The long term vision is to manufacture and assemble in-house in the USA. 
+-Unlike other manufacturers, Amken is based out of US and will ship from US location and provide US based service. 
+-Being a small independent design shop, Amken is uniquely positioned to deliver cutting edge tech to the community quickly and is commited to listening to its customers. 
 
 ## Order Now - (taking orders for Pre-Launch release)
 
